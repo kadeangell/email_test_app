@@ -9,6 +9,9 @@ dist/
 out/
 .vite/
 
+# Wails build output
+build/bin/
+
 # Compiled Java class files
 *.class
 
